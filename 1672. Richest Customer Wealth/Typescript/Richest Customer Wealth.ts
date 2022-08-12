@@ -1,5 +1,5 @@
 /*
-Problem Link: {https://leetcode.com/problems/richest-customer-wealth/submissions/}
+Problem Link: {https://leetcode.com/problems/richest-customer-wealth}
 */
 
 // Solution 1
