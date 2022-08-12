@@ -20,7 +20,7 @@ ts-node {file name}
 ```
 
 ## Run Javascript Solutions
-Navigate to `/[Problem Name]/Javascript/` 
+Navigate to `/[Problem Name]/Javascript/`   
 Just run them using node terminal like this
 ```
 node {file name}
